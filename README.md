@@ -6,7 +6,7 @@
 
 Chaman, Balochistan, Pakistan
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-B8862F?style=flat-square)](https://sanaullah-niazi.github.io/Sanaullah-Ai/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-B8862F?style=flat-square)](https://sanaullah-niazi.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaullahkhanniazi)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=V1nFOOkAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanaullahkhan.hse@gmail.com)
