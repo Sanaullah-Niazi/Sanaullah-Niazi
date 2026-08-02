@@ -36,14 +36,29 @@ AI graduate (MPhil, Artificial Intelligence) with a peer-reviewed publication re
 
 ### Toolkit
 
+**Languages & Notebooks**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Cybersecurity:** Digital Forensics · Ethical Hacking · SIEM/Log Analysis · Risk & Threat Analysis
-**AI/ML:** Deep Learning · Neural Networks · Text Classification · Fraud Detection Modeling
+**Cybersecurity & Forensics**
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square)
+
+**Research & Writing**
+![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white)
+![Zotero](https://img.shields.io/badge/-Zotero-CC2936?style=flat-square&logo=zotero&logoColor=white)
+![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)
+
+**Cybersecurity:** Digital Forensics · Ethical Hacking · SIEM/Log Analysis · Risk & Threat Analysis · Wireshark · Kali Linux · Nmap
+**AI/ML:** Deep Learning · Neural Networks · Text Classification · Fraud Detection Modeling · MATLAB · Jupyter Notebook · Kaggle
+**Research:** Academic Writing · Statistical Analysis · Literature Review · Overleaf (LaTeX) · Zotero
 
 ### Certifications
 
