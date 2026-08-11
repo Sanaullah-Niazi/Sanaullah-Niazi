@@ -99,21 +99,6 @@ AI graduate (MS, Artificial Intelligence) with a peer-reviewed publication recor
 - Advanced Chatbots with Deep Learning and Python — Packt *(Feb 2025)*
 - Programming in Python — Meta *(Feb 2025)*
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sanaullah-Niazi&show_icons=true&theme=default&hide_border=true&title_color=B8862F&icon_color=3E7C82&text_color=12203A" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanaullah-Niazi&hide_border=true&background=EEF0EA&ring=B8862F&fire=B8862F&currStreakLabel=3E7C82" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaullah-Niazi&layout=compact&hide_border=true&title_color=B8862F&text_color=12203A&langs_count=8" alt="Top Languages" height="165"/>
-
-</div>
-
-> Note: these are live GitHub badge widgets — they'll only populate once you have a reasonable amount of public activity/commits on your GitHub account. If your profile is new, they'll still render but look sparse until then.
-
----
-
 <div align="center">
 <sub>📍 Chaman, Balochistan, Pakistan &nbsp;·&nbsp; English · Urdu · Pashto</sub>
 </div>
