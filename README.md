@@ -70,27 +70,40 @@ I built and compared LSTM, fine-tuned BERT, TF-IDF + BERT + LightGBM and hybrid 
 ### Skills
 
 **AI / ML & NLP**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow_/_Keras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/-LightGBM-02569B?style=flat-square)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+Text classification · LSTM & BERT models
 
 **Cybersecurity** *(lab and hands-on training level)*
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square)
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square)
+
 Network security · threat & vulnerability analysis · ethical hacking basics · digital forensics · incident response
 
 **Programming & tools**
-![Linux](https://img.shields.io/badge/-Linux_(Ubuntu)-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/-Git_&_GitHub-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino_&_IoT-00878F?style=flat-square&logo=arduino&logoColor=white)
+
+![Ubuntu Linux](https://img.shields.io/badge/Ubuntu%20Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+
+Python scripting & automation · web scraping · computer networks · IoT sensors
 
 ### Certifications
 
