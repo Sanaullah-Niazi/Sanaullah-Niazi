@@ -2,103 +2,110 @@
 
 # Sana Ullah Khan
 
-**AI Scholar · Aspiring Cybersecurity Researcher**
+**AI × Cybersecurity**
 
-📍 Chaman, Balochistan, Pakistan
+Building intelligent systems that detect threats, fraud and AI-generated content.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-B8862F?style=flat-square)](https://sanaullah-niazi.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sanaullah--niazi.github.io-B8862F?style=flat-square)](https://sanaullah-niazi.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaullahkhanniazi)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=V1nFOOkAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=V1nFOOkAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanaullahkhan.hse@gmail.com)
 
 </div>
 
 ---
 
-### About
+### About me
 
-AI graduate (MS, Artificial Intelligence) with a peer-reviewed publication record applying machine learning to fraud detection and risk analytics — currently transitioning into graduate-level **cybersecurity research**. Trained in digital forensics, ethical hacking, and network defense through NAVTTC and Cisco certification programs. Working toward a Master's/PhD in Cybersecurity focused on AI-driven threat detection and secure intelligent systems.
+I am an early-career researcher with an MS in Artificial Intelligence. I build machine learning and NLP models that tell real from fake: AI-generated from human text, fraud from normal transactions, scams from genuine messages. Next, I want to make AI systems themselves secure.
 
-```text
-🔭 Currently exploring:  AI-driven threat detection & secure intelligent systems
-🌱 Learning:             SIEM/log analysis, IoT security, applied deep learning for cyber defense
-🎓 Working toward:       Graduate admission — MS/PhD in Cybersecurity
-💬 Ask me about:         Fraud detection modeling, deep learning for text classification, digital forensics
-📫 Reach me:             sanaullahkhan.hse@gmail.com
-```
+I am open to Master's and PhD positions, research collaborations, and SOC / security and ML roles.
 
-### Research Interests
+👉 **See my full portfolio: [sanaullah-niazi.github.io/portfolio](https://sanaullah-niazi.github.io/portfolio/)**
 
-`AI/ML-Driven Threat & Fraud Detection` `SOC Operations & Security Monitoring` `SIEM & Log Analysis` `Digital Forensics & Incident Response` `Network Security` `Secure Intelligent Systems` `IoT Security` `Applied Deep Learning for Cyber Defense`
+### What I work on
 
-### Education
+| Area | Level | What I can show |
+|------|-------|-----------------|
+| Machine learning & NLP | Research level | MS thesis on AI vs. human text classification with LSTM, BERT and hybrid models (99.65% accuracy, ~500,000 texts) |
+| Threat & fraud detection | Published research | First author of a peer-reviewed paper on AI-driven fraud detection for FinTech cybersecurity |
+| AI security | Current direction | Detecting AI-generated content today; adversarial ML and LLM security are what I want to study next |
+| SOC & blue team | Training & lab level | Cisco Junior Cybersecurity Analyst career path and a 3-month NAVTTC course in digital forensics & cyber security (Grade A) |
+| Penetration testing & ethical hacking | Training & lab level | Cisco Ethical Hacker programme; hands-on lab work with Kali Linux, Nmap and Wireshark |
 
-- 🎓 **MS, Artificial Intelligence** — The Islamia University of Bahawalpur *(2023–2025)* · CGPA 3.66/4.00
-  Thesis: *Advancing Deep Learning and Neural Network Techniques for AI and Human Text Classification*
-- 🎓 **BS, Information Technology** — BUITEMS, Quetta *(2019–2023)* · CGPA 2.73/4.00
-  Final Year Project: *IoT-Based Aqua Utilization for Smart Edifice*
+### Current project
 
-### Experience
+🛠️ **AI-powered scam & phishing detector (English, Urdu, Roman Urdu)** *(in progress)*
+A tool that flags scam and phishing messages written in the languages people in Pakistan actually receive them in.
 
-- 🏫 **Visiting Lecturer**, Dept. of Information Technology — GC University Faisalabad, Layyah Campus *(Mar 2024 – Jun 2026)*
-- 💻 **Virtual Assistant & Web Developer** — Bewaji Healthcare Solutions (Freelance) *(2022 – 2024)*
-- 🌐 **Freelance Web Developer & Virtual Assistant** — Fiverr & Upwork, Top Rated *(2021 – Present)*
-- 🧑‍💻 **IT Intern** — Codonist IT Solutions *(Mar – Aug 2021)*
+### Research
+
+**MS thesis:** *Advancing Deep Learning and Neural Network Techniques for AI and Human Text Classification*
+I built and compared LSTM, fine-tuned BERT, TF-IDF + BERT + LightGBM and hybrid BERT + LSTM models on a balanced dataset of about 500,000 texts. The BERT + LSTM model reached 99.65% accuracy and an F1-score of 0.995.
+
+**Now:** AI-generated text detection · phishing & scam detection · fraud detection
+**Next:** adversarial machine learning · LLM security · AI for the SOC
 
 ### Publications
 
-| # | Title | DOI |
-|---|-------|-----|
-| 1 | *Artificial Intelligence and Workplace Safety in the Oil and Gas Industry: Transforming Occupational Risk Assessment through Smart Safety Analytics* | [10.65181/poms.06.01.0100](https://doi.org/10.65181/poms.06.01.0100) |
-| 2 | *Artificial Intelligence–Driven Fraud Detection in FinTech: Strengthening Cybersecurity Against Digital Financial Scams* | [10.63544/jbii.v5i6.116](https://doi.org/10.63544/jbii.v5i6.116) |
-| 3 | *GenAI Adoption in Entrepreneurial Education and Digital Entrepreneurial Intention* | [10.70843/ijass.2026.06107](https://doi.org/10.70843/ijass.2026.06107) |
+| Year | Title | Role | DOI |
+|------|-------|------|-----|
+| 2026 | *Artificial Intelligence–Driven Fraud Detection in FinTech: Strengthening Cybersecurity Against Digital Financial Scams* | First author | [10.63544/jbii.v5i6.116](https://doi.org/10.63544/jbii.v5i6.116) |
+| 2026 | *Artificial Intelligence and Workplace Safety in the Oil and Gas Industry: Transforming Occupational Risk Assessment through Smart Safety Analytics* | First author | [10.65181/poms.06.01.0100](https://doi.org/10.65181/poms.06.01.0100) |
+| 2026 | *GenAI Adoption in Entrepreneurial Education and Digital Entrepreneurial Intention* | Co-author | [10.70843/ijass.2026.06107](https://doi.org/10.70843/ijass.2026.06107) |
 
-### Toolkit
+### Experience
 
-**AI / Machine Learning**
+- 🏫 **Visiting Lecturer** (part-time), Department of IT, GC University Faisalabad, Layyah Campus *(Mar 2024 – Jun 2026)*
+  Taught Introduction to ICT and Computer Networks to undergraduate IT students.
+- 💻 **Freelance Video Editor & Python Automation Specialist**, Upwork *(Jul 2021 – present)*
+  43 contracts, 100% Job Success Score, 1,494 logged hours. Python scripts for web scraping, data collection and automation.
+
+### Education
+
+- 🎓 **MS in Artificial Intelligence**, The Islamia University of Bahawalpur *(Nov 2023 – Jan 2026)* · CGPA 3.66 / 4.00
+- 🎓 **BS in Information Technology**, BUITEMS, Quetta *(Oct 2019 – Jul 2023)*
+- 🎓 **Diploma in Health, Safety & Environmental Engineering**, Peshawar Institute of Technical Education *(2017 – 2020)*
+
+### Skills
+
+**AI / ML & NLP**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow_/_Keras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![LightGBM](https://img.shields.io/badge/-LightGBM-02569B?style=flat-square)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Cybersecurity** *(lab and hands-on training level)*
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square)
+Network security · threat & vulnerability analysis · ethical hacking basics · digital forensics · incident response
+
+**Programming & tools**
+![Linux](https://img.shields.io/badge/-Linux_(Ubuntu)-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/-Git_&_GitHub-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
-**Cybersecurity & Forensics**
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Wazuh](https://img.shields.io/badge/-Wazuh-1E90FF?style=flat-square)
-
-**Web Development**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Research & Writing**
-![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white)
-![Zotero](https://img.shields.io/badge/-Zotero-CC2936?style=flat-square&logo=zotero&logoColor=white)
-![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino_&_IoT-00878F?style=flat-square&logo=arduino&logoColor=white)
 
 ### Certifications
 
-**Cybersecurity & Digital Forensics**
-- Digital Forensics & Cyber Security — NAVTTC, Pakistan *(Feb 2024)*
-- Junior Cybersecurity Analyst Career Path — Cisco *(Oct 2024)*
-- Ethical Hacker — Cisco *(Nov 2024)*
-- Digital Awareness — Cisco *(Nov 2024)*
+**Cybersecurity & digital forensics**
+- Digital Forensic & Cyber Security (3-month course, Grade A), NAVTTC, Govt. of Pakistan *(Feb – May 2024)*
+- Junior Cybersecurity Analyst Career Path, Cisco Networking Academy *(Oct 2024)*
+- Ethical Hacker, Cisco Networking Academy *(Nov 2024)*
+- Introduction to Cybersecurity, Cisco Networking Academy *(Nov 2024)*
 
-**Artificial Intelligence & Programming**
-- IoT for Everyone — HEC Pakistan (Coursera) *(Jul 2026)*
-- AI Python for Beginners — DeepLearning.AI *(Mar 2025)*
-- Advanced Chatbots with Deep Learning and Python — Packt *(Feb 2025)*
-- Programming in Python — Meta *(Feb 2025)*
+**AI, programming & IoT**
+- Programming in Python, Meta (Coursera) *(Feb 2025)*
+- Advanced Chatbots with Deep Learning and Python, Packt (Coursera) *(Feb 2025)*
+- AI Python for Beginners, DeepLearning.AI (Coursera) *(Mar 2025)*
+- IoT for Everyone, UET Peshawar / HEC (Coursera) *(Jul 2026)*
 
 <div align="center">
-<sub>📍 Chaman, Balochistan, Pakistan &nbsp;·&nbsp; English · Urdu · Pashto</sub>
+<sub>Pakistan &nbsp;·&nbsp; <a href="https://sanaullah-niazi.github.io/portfolio/">sanaullah-niazi.github.io/portfolio</a></sub>
 </div>
