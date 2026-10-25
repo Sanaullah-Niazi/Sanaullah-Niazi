@@ -6,7 +6,7 @@
 
 Building intelligent systems that detect threats, fraud and AI-generated content.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sanaullah--niazi.github.io-B8862F?style=flat-square)](https://sanaullah-niazi.github.io/portfolio/)
+[![Website](https://img.shields.io/badge/Website-sanaullahniazi.com-B8862F?style=flat-square)](https://sanaullahniazi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaullahkhanniazi)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=V1nFOOkAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanaullahkhan.hse@gmail.com)
@@ -21,7 +21,7 @@ I am an early-career researcher with an MS in Artificial Intelligence. I build m
 
 I am open to Master's and PhD positions, research collaborations, and SOC / security and ML roles.
 
-👉 **See my full portfolio: [sanaullah-niazi.github.io/portfolio](https://sanaullah-niazi.github.io/portfolio/)**
+👉 **See my full portfolio: [sanaullahniazi.com](https://sanaullahniazi.com)**
 
 ### What I work on
 
@@ -35,15 +35,15 @@ I am open to Master's and PhD positions, research collaborations, and SOC / secu
 
 ### Current project
 
-🛠️ **AI-powered scam & phishing detector (English, Urdu, Roman Urdu)** *(in progress)*
+🛠️ **AI-powered scam & phishing detector (English, Urdu, Roman Urdu)** *(in progress)*<br>
 A tool that flags scam and phishing messages written in the languages people in Pakistan actually receive them in.
 
 ### Research
 
-**MS thesis:** *Advancing Deep Learning and Neural Network Techniques for AI and Human Text Classification*
+**MS thesis:** *Advancing Deep Learning and Neural Network Techniques for AI and Human Text Classification*<br>
 I built and compared LSTM, fine-tuned BERT, TF-IDF + BERT + LightGBM and hybrid BERT + LSTM models on a balanced dataset of about 500,000 texts. The BERT + LSTM model reached 99.65% accuracy and an F1-score of 0.995.
 
-**Now:** AI-generated text detection · phishing & scam detection · fraud detection
+**Now:** AI-generated text detection · phishing & scam detection · fraud detection<br>
 **Next:** adversarial machine learning · LLM security · AI for the SOC
 
 ### Publications
@@ -56,9 +56,9 @@ I built and compared LSTM, fine-tuned BERT, TF-IDF + BERT + LightGBM and hybrid 
 
 ### Experience
 
-- 🏫 **Visiting Lecturer** (part-time), Department of IT, GC University Faisalabad, Layyah Campus *(Mar 2024 – Jun 2026)*
+- 🏫 **Visiting Lecturer** (part-time), Department of IT, GC University Faisalabad, Layyah Campus *(Mar 2024 – Jun 2026)*<br>
   Taught Introduction to ICT and Computer Networks to undergraduate IT students.
-- 💻 **Freelance Video Editor & Python Automation Specialist**, Upwork *(Jul 2021 – present)*
+- 💻 **Freelance Video Editor & Python Automation Specialist**, Upwork *(Jul 2021 – present)*<br>
   43 contracts, 100% Job Success Score, 1,494 logged hours. Python scripts for web scraping, data collection and automation.
 
 ### Education
@@ -108,17 +108,19 @@ Python scripting & automation · web scraping · computer networks · IoT sensor
 ### Certifications
 
 **Cybersecurity & digital forensics**
+
 - Digital Forensic & Cyber Security (3-month course, Grade A), NAVTTC, Govt. of Pakistan *(Feb – May 2024)*
 - Junior Cybersecurity Analyst Career Path, Cisco Networking Academy *(Oct 2024)*
 - Ethical Hacker, Cisco Networking Academy *(Nov 2024)*
 - Introduction to Cybersecurity, Cisco Networking Academy *(Nov 2024)*
 
 **AI, programming & IoT**
+
 - Programming in Python, Meta (Coursera) *(Feb 2025)*
 - Advanced Chatbots with Deep Learning and Python, Packt (Coursera) *(Feb 2025)*
 - AI Python for Beginners, DeepLearning.AI (Coursera) *(Mar 2025)*
 - IoT for Everyone, UET Peshawar / HEC (Coursera) *(Jul 2026)*
 
 <div align="center">
-<sub>Pakistan &nbsp;·&nbsp; <a href="https://sanaullah-niazi.github.io/portfolio/">sanaullah-niazi.github.io/portfolio</a></sub>
+<sub>Pakistan &nbsp;·&nbsp; <a href="https://sanaullahniazi.com">sanaullahniazi.com</a></sub>
 </div>
