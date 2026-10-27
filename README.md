@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaullahkhanniazi)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=V1nFOOkAAAAJ&hl=en)
 [![CV](https://img.shields.io/badge/Download%20CV-B8862F?style=for-the-badge&logo=readdotcv&logoColor=white)](https://sanaullahniazi.com/assets/cv/Sana_Ullah_Khan_CV.pdf)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanaullahkhan.hse@gmail.com)
+[![Contact me](https://img.shields.io/badge/Contact%20me-D14836?style=for-the-badge)](https://sanaullahniazi.com/#contact)
 
 </div>
 
@@ -22,13 +22,14 @@ I am an early-career researcher with an **MS in Artificial Intelligence**. I bui
 - 🎯 **Next:** adversarial machine learning · LLM security · AI for the SOC
 - 🛠️ **Building:** a scam & phishing detector for English, Urdu and Roman Urdu messages
 - 🤝 **Open to:** Master's and PhD positions, research collaborations, and SOC / security and ML roles
+- 📬 **Get in touch:** use the [contact form on my website](https://sanaullahniazi.com/#contact) or email [sanaullahkhan.hse@gmail.com](mailto:sanaullahkhan.hse@gmail.com)
 
 ## 🌐 On my website
 
 | | | |
 |:--|:--|:--|
-| 🛡️ **[Free security tools](https://sanaullahniazi.com/tools/)** | 14 tools that run in your browser: phishing link checker, leaked password checker, hidden text and prompt injection finder, and more | Nothing you paste leaves your device |
-| 🗺️ **[Security roadmaps](https://sanaullahniazi.com/roadmaps/security/)** | Beginner-to-expert career paths for SecOps, network, cloud, application security, IAM and DFIR, plus [frameworks](https://sanaullahniazi.com/roadmaps/security/frameworks/) like NIST CSF, ISO 27001 and MITRE ATT&CK | Links checked every week |
+| 🛡️ **[Free security tools](https://sanaullahniazi.com/tools/)** | 15 free tools: website health and security checker, phishing link checker, leaked password checker, hidden text and prompt injection finder, and more | Free, no sign-up |
+| 🗺️ **[Security roadmaps](https://sanaullahniazi.com/roadmaps/security/)** | 55 beginner-to-expert career roadmaps in 9 areas, from SOC and cloud security to offensive security, GRC and AI/ML security, plus [frameworks](https://sanaullahniazi.com/roadmaps/security/frameworks/) like NIST CSF, ISO 27001 and MITRE ATT&CK | Links checked every week |
 | 🎓 **[Learning roadmaps](https://sanaullahniazi.com/roadmaps/)** | Free, step-by-step paths into computer science, web, cybersecurity, AI/ML, data and cloud, and [certification roadmaps](https://sanaullahniazi.com/roadmaps/certifications/) | Free resources only |
 | 📰 **[Daily security news](https://sanaullahniazi.com/security-news/)** | Exploited vulnerabilities, ransomware, phishing, breaches and AI security, collected every day with a short brief | Updated by GitHub Actions |
 | ✍️ **[Blog](https://sanaullahniazi.com/blog/)** | Latest: *[What 99.65% accuracy taught me about AI security](https://sanaullahniazi.com/blog/2026/what-99-percent-accuracy-taught-me/)* | |
@@ -38,18 +39,18 @@ I am an early-career researcher with an **MS in Artificial Intelligence**. I bui
 
 <table>
   <tr>
+    <td width="33%"><a href="https://sanaullahniazi.com/tools/website-health-checker/"><img src="assets/tools/website-health-checker.jpg" alt="Website health and security checker"></a></td>
     <td width="33%"><a href="https://sanaullahniazi.com/tools/phishing-link-checker/"><img src="assets/tools/phishing-link-checker.jpg" alt="Phishing link checker"></a></td>
     <td width="33%"><a href="https://sanaullahniazi.com/tools/hidden-text-detector/"><img src="assets/tools/hidden-text-detector.jpg" alt="Hidden text and prompt injection finder"></a></td>
-    <td width="33%"><a href="https://sanaullahniazi.com/tools/leaked-password-checker/"><img src="assets/tools/leaked-password-checker.jpg" alt="Leaked password checker"></a></td>
   </tr>
   <tr>
+    <td width="33%"><a href="https://sanaullahniazi.com/tools/leaked-password-checker/"><img src="assets/tools/leaked-password-checker.jpg" alt="Leaked password checker"></a></td>
     <td width="33%"><a href="https://sanaullahniazi.com/tools/lookalike-domain-checker/"><img src="assets/tools/lookalike-domain-checker.jpg" alt="Lookalike domain and punycode checker"></a></td>
-    <td width="33%"><a href="https://sanaullahniazi.com/tools/password-strength-checker/"><img src="assets/tools/password-strength-checker.jpg" alt="Password strength checker"></a></td>
     <td width="33%"><a href="https://sanaullahniazi.com/tools/photo-metadata-remover/"><img src="assets/tools/photo-metadata-remover.jpg" alt="Photo metadata viewer and remover"></a></td>
   </tr>
 </table>
 
-<p align="center"><a href="https://sanaullahniazi.com/tools/"><b>See all 14 tools →</b></a></p>
+<p align="center"><a href="https://sanaullahniazi.com/tools/"><b>See all 15 tools →</b></a></p>
 
 ## 🔬 Research
 
