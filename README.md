@@ -1,111 +1,146 @@
+<a href="https://sanaullahniazi.com">
+  <img src="assets/banner.png" alt="Sana Ullah Khan · AI × Cybersecurity · Machine learning & NLP for phishing, scam and fraud detection, and AI-generated text detection" width="100%">
+</a>
+
 <div align="center">
 
-# Sana Ullah Khan
+<a href="https://sanaullahniazi.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=900&color=5EC8D8&center=true&vCenter=true&width=640&lines=AI+%C3%97+Cybersecurity+researcher;Detecting+phishing%2C+scams+and+fraud+with+ML;Telling+AI-generated+text+from+human+writing;Next%3A+adversarial+ML+and+LLM+security" alt="AI × Cybersecurity researcher"></a>
 
-**AI × Cybersecurity**
-
-Building intelligent systems that detect threats, fraud and AI-generated content.
-
-[![Website](https://img.shields.io/badge/Website-sanaullahniazi.com-B8862F?style=flat-square)](https://sanaullahniazi.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaullahkhanniazi)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=V1nFOOkAAAAJ&hl=en)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sanaullahkhan.hse@gmail.com)
+[![Website](https://img.shields.io/badge/sanaullahniazi.com-0B1220?style=for-the-badge&logo=googlechrome&logoColor=5EC8D8)](https://sanaullahniazi.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaullahkhanniazi)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=V1nFOOkAAAAJ&hl=en)
+[![CV](https://img.shields.io/badge/Download%20CV-B8862F?style=for-the-badge&logo=readdotcv&logoColor=white)](https://sanaullahniazi.com/assets/cv/Sana_Ullah_Khan_CV.pdf)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanaullahkhan.hse@gmail.com)
 
 </div>
 
----
+## 👋 About me
 
-### About me
+I am an early-career researcher with an **MS in Artificial Intelligence**. I build machine learning and NLP models that tell real from fake: AI-generated from human text, fraud from normal transactions, scams from genuine messages. Next, I want to make AI systems themselves secure.
 
-I am an early-career researcher with an MS in Artificial Intelligence. I build machine learning and NLP models that tell real from fake: AI-generated from human text, fraud from normal transactions, scams from genuine messages. Next, I want to make AI systems themselves secure.
+- 🔬 **Now:** AI-generated text detection · phishing & scam detection · fraud detection
+- 🎯 **Next:** adversarial machine learning · LLM security · AI for the SOC
+- 🛠️ **Building:** a scam & phishing detector for English, Urdu and Roman Urdu messages
+- 🤝 **Open to:** Master's and PhD positions, research collaborations, and SOC / security and ML roles
 
-I am open to Master's and PhD positions, research collaborations, and SOC / security and ML roles.
+## 🌐 On my website
 
-👉 **See my full portfolio: [sanaullahniazi.com](https://sanaullahniazi.com)**
+| | | |
+|:--|:--|:--|
+| 🛡️ **[Free security tools](https://sanaullahniazi.com/tools/)** | 14 tools that run in your browser: phishing link checker, leaked password checker, hidden text and prompt injection finder, and more | Nothing you paste leaves your device |
+| 🗺️ **[Security roadmaps](https://sanaullahniazi.com/roadmaps/security/)** | Beginner-to-expert career paths for SecOps, network, cloud, application security, IAM and DFIR, plus [frameworks](https://sanaullahniazi.com/roadmaps/security/frameworks/) like NIST CSF, ISO 27001 and MITRE ATT&CK | Links checked every week |
+| 🎓 **[Learning roadmaps](https://sanaullahniazi.com/roadmaps/)** | Free, step-by-step paths into computer science, web, cybersecurity, AI/ML, data and cloud, and [certification roadmaps](https://sanaullahniazi.com/roadmaps/certifications/) | Free resources only |
+| 📰 **[Daily security news](https://sanaullahniazi.com/security-news/)** | Exploited vulnerabilities, ransomware, phishing, breaches and AI security, collected every day with a short brief | Updated by GitHub Actions |
+| ✍️ **[Blog](https://sanaullahniazi.com/blog/)** | Latest: *[What 99.65% accuracy taught me about AI security](https://sanaullahniazi.com/blog/2026/what-99-percent-accuracy-taught-me/)* | |
+| 🌍 **Four languages** | [English](https://sanaullahniazi.com) · [اردو](https://sanaullahniazi.com/ur/) · [Deutsch](https://sanaullahniazi.com/de/) · [中文](https://sanaullahniazi.com/zh/) | |
 
-### What I work on
+### 🧰 Featured tools
+
+<table>
+  <tr>
+    <td width="33%"><a href="https://sanaullahniazi.com/tools/phishing-link-checker/"><img src="assets/tools/phishing-link-checker.jpg" alt="Phishing link checker"></a></td>
+    <td width="33%"><a href="https://sanaullahniazi.com/tools/hidden-text-detector/"><img src="assets/tools/hidden-text-detector.jpg" alt="Hidden text and prompt injection finder"></a></td>
+    <td width="33%"><a href="https://sanaullahniazi.com/tools/leaked-password-checker/"><img src="assets/tools/leaked-password-checker.jpg" alt="Leaked password checker"></a></td>
+  </tr>
+  <tr>
+    <td width="33%"><a href="https://sanaullahniazi.com/tools/lookalike-domain-checker/"><img src="assets/tools/lookalike-domain-checker.jpg" alt="Lookalike domain and punycode checker"></a></td>
+    <td width="33%"><a href="https://sanaullahniazi.com/tools/password-strength-checker/"><img src="assets/tools/password-strength-checker.jpg" alt="Password strength checker"></a></td>
+    <td width="33%"><a href="https://sanaullahniazi.com/tools/photo-metadata-remover/"><img src="assets/tools/photo-metadata-remover.jpg" alt="Photo metadata viewer and remover"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://sanaullahniazi.com/tools/"><b>See all 14 tools →</b></a></p>
+
+## 🔬 Research
+
+**MS thesis:** *Advancing Deep Learning and Neural Network Techniques for AI and Human Text Classification*<br>
+I built and compared LSTM, fine-tuned BERT, TF-IDF + BERT + LightGBM and hybrid BERT + LSTM models on a balanced dataset of about 500,000 texts.
+
+<div align="center">
+
+![Accuracy](https://img.shields.io/badge/Accuracy-99.65%25-5EC8D8?style=for-the-badge)
+![F1-score](https://img.shields.io/badge/F1--score-0.995-5EC8D8?style=for-the-badge)
+![Dataset](https://img.shields.io/badge/Dataset-~500%2C000%20texts-5EC8D8?style=for-the-badge)
+
+</div>
+
+### 📄 Publications
+
+| Year | Paper | Role |
+|:----:|-------|:----:|
+| 2026 | **[AI-Driven Fraud Detection in FinTech: Strengthening Cybersecurity Against Digital Financial Scams](https://doi.org/10.63544/jbii.v5i6.116)**<br><sub>Journal of Business Insight and Innovation, 5(6), 72–82</sub> | First author |
+| 2026 | **[AI and Workplace Safety in the Oil and Gas Industry: Transforming Occupational Risk Assessment through Smart Safety Analytics](https://doi.org/10.65181/poms.06.01.0100)**<br><sub>Periodicals of Management Studies, 6(1), 46–60</sub> | First author |
+| 2026 | **[GenAI Adoption in Entrepreneurial Education and Digital Entrepreneurial Intention](https://doi.org/10.70843/ijass.2026.06107)**<br><sub>International Journal of Advanced Social Studies, 6(1), 82–93</sub> | Co-author |
+
+## 📌 Projects
+
+| Project | What it does | Status |
+|---------|--------------|:------:|
+| **[Scam & phishing detector](https://sanaullahniazi.com/projects/scam-phishing-detector/)** | Flags scam and phishing messages in English, Urdu and Roman Urdu, the languages people in Pakistan actually receive them in | 🟡 In progress |
+| **[AI-generated text detector](https://sanaullahniazi.com/projects/ai-text-detector/)** | My MS thesis: deep learning models that tell AI-generated from human-written text | ✅ Completed |
+| **[IoT water management](https://sanaullahniazi.com/projects/iot-water-management/)** | BS final-year project: Arduino sensors, automatic pump control and an Android app | ✅ Completed |
+
+## 🛠️ Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,linux,ubuntu,git,github,html,css,js,arduino&perline=12" alt="Python, PyTorch, TensorFlow, scikit-learn, Linux, Ubuntu, Git, GitHub, HTML, CSS, JavaScript, Arduino">
+</p>
+
+<div align="center">
+
+![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square)
+
+</div>
 
 | Area | Level | What I can show |
 |------|-------|-----------------|
-| Machine learning & NLP | Research level | MS thesis on AI vs. human text classification with LSTM, BERT and hybrid models (99.65% accuracy, ~500,000 texts) |
-| Threat & fraud detection | Published research | First author of a peer-reviewed paper on AI-driven fraud detection for FinTech cybersecurity |
-| AI security | Current direction | Detecting AI-generated content today; adversarial ML and LLM security are what I want to study next |
-| SOC & blue team | Training & lab level | Cisco Junior Cybersecurity Analyst career path and a 3-month NAVTTC course in digital forensics & cyber security (Grade A) |
-| Penetration testing & ethical hacking | Training & lab level | Cisco Ethical Hacker programme; hands-on lab work with Kali Linux, Nmap and Wireshark |
+| Machine learning & NLP | Research level | MS thesis with LSTM, BERT and hybrid models |
+| Threat & fraud detection | Published research | First-author paper on AI-driven fraud detection for FinTech cybersecurity |
+| AI security | Current direction | Detecting AI-generated content today; adversarial ML and LLM security next |
+| SOC & blue team | Training & lab level | Cisco Junior Cybersecurity Analyst path; 3-month NAVTTC digital forensics & cyber security course (Grade A) |
+| Penetration testing | Training & lab level | Cisco Ethical Hacker programme; lab work with Kali Linux, Nmap and Wireshark |
 
-### Current project
+## 📰 News
 
-🛠️ **AI-powered scam & phishing detector (English, Urdu, Roman Urdu)** *(in progress)*<br>
-A tool that flags scam and phishing messages written in the languages people in Pakistan actually receive them in.
+- **Oct 2026** · Scored IELTS Academic 6.5 (B2) and started learning German.
+- **Jul 2026** · Completed "IoT for Everyone" (UET Peshawar / HEC, Coursera).
+- **Jun 2026** · First-author paper on AI-driven fraud detection in FinTech [published](https://doi.org/10.63544/jbii.v5i6.116).
+- **Mar 2026** · First-author paper on AI and workplace safety in oil and gas [published](https://doi.org/10.65181/poms.06.01.0100).
+- **Jan 2026** · Awarded the MS in Artificial Intelligence by The Islamia University of Bahawalpur (CGPA 3.66 / 4.00).
 
-### Research
-
-**MS thesis:** *Advancing Deep Learning and Neural Network Techniques for AI and Human Text Classification*<br>
-I built and compared LSTM, fine-tuned BERT, TF-IDF + BERT + LightGBM and hybrid BERT + LSTM models on a balanced dataset of about 500,000 texts. The BERT + LSTM model reached 99.65% accuracy and an F1-score of 0.995.
-
-**Now:** AI-generated text detection · phishing & scam detection · fraud detection<br>
-**Next:** adversarial machine learning · LLM security · AI for the SOC
-
-### Publications
-
-| Year | Title | Role | DOI |
-|------|-------|------|-----|
-| 2026 | *Artificial Intelligence–Driven Fraud Detection in FinTech: Strengthening Cybersecurity Against Digital Financial Scams* | First author | [10.63544/jbii.v5i6.116](https://doi.org/10.63544/jbii.v5i6.116) |
-| 2026 | *Artificial Intelligence and Workplace Safety in the Oil and Gas Industry: Transforming Occupational Risk Assessment through Smart Safety Analytics* | First author | [10.65181/poms.06.01.0100](https://doi.org/10.65181/poms.06.01.0100) |
-| 2026 | *GenAI Adoption in Entrepreneurial Education and Digital Entrepreneurial Intention* | Co-author | [10.70843/ijass.2026.06107](https://doi.org/10.70843/ijass.2026.06107) |
-
-### Experience
+<details>
+<summary><b>💼 Experience</b></summary>
+<br>
 
 - 🏫 **Visiting Lecturer** (part-time), Department of IT, GC University Faisalabad, Layyah Campus *(Mar 2024 – Jun 2026)*<br>
   Taught Introduction to ICT and Computer Networks to undergraduate IT students.
 - 💻 **Freelance Video Editor & Python Automation Specialist**, Upwork *(Jul 2021 – present)*<br>
   43 contracts, 100% Job Success Score, 1,494 logged hours. Python scripts for web scraping, data collection and automation.
 
-### Education
+</details>
 
-- 🎓 **MS in Artificial Intelligence**, The Islamia University of Bahawalpur *(Nov 2023 – Jan 2026)* · CGPA 3.66 / 4.00
-- 🎓 **BS in Information Technology**, BUITEMS, Quetta *(Oct 2019 – Jul 2023)*
-- 🎓 **Diploma in Health, Safety & Environmental Engineering**, Peshawar Institute of Technical Education *(2017 – 2020)*
+<details>
+<summary><b>🎓 Education</b></summary>
+<br>
 
-### Skills
+- **MS in Artificial Intelligence**, The Islamia University of Bahawalpur *(Nov 2023 – Jan 2026)* · CGPA 3.66 / 4.00
+- **BS in Information Technology**, BUITEMS, Quetta *(Oct 2019 – Jul 2023)*
+- **Diploma in Health, Safety & Environmental Engineering**, Peshawar Institute of Technical Education *(2017 – 2020)*
 
-**AI / ML & NLP**
+</details>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-
-Text classification · LSTM & BERT models
-
-**Cybersecurity** *(lab and hands-on training level)*
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square)
-
-Network security · threat & vulnerability analysis · ethical hacking basics · digital forensics · incident response
-
-**Programming & tools**
-
-![Ubuntu Linux](https://img.shields.io/badge/Ubuntu%20Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-
-Python scripting & automation · web scraping · computer networks · IoT sensors
-
-### Certifications
+<details>
+<summary><b>📜 Certifications</b></summary>
+<br>
 
 **Cybersecurity & digital forensics**
 
@@ -121,6 +156,15 @@ Python scripting & automation · web scraping · computer networks · IoT sensor
 - AI Python for Beginners, DeepLearning.AI (Coursera) *(Mar 2025)*
 - IoT for Everyone, UET Peshawar / HEC (Coursera) *(Jul 2026)*
 
+</details>
+
+## 📊 GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanaullah-Niazi&show_icons=true&hide_border=true&bg_color=0B1220&title_color=5EC8D8&icon_color=5EC8D8&text_color=C9D1D9&count_private=true" alt="GitHub stats">
+  <img height="165" src="https://streak-stats.demolab.com?user=Sanaullah-Niazi&hide_border=true&background=0B1220&ring=5EC8D8&fire=5EC8D8&currStreakLabel=5EC8D8&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak">
+</p>
+
 <div align="center">
-<sub>Pakistan &nbsp;·&nbsp; <a href="https://sanaullahniazi.com">sanaullahniazi.com</a></sub>
+<sub>Pakistan · <a href="https://sanaullahniazi.com">sanaullahniazi.com</a> · English · اردو · Deutsch · 中文</sub>
 </div>
