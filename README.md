@@ -4,11 +4,12 @@
 
 <div align="center">
 
-<a href="https://sanaullahniazi.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=900&color=5EC8D8&center=true&vCenter=true&width=640&lines=AI+%C3%97+Cybersecurity+researcher;Detecting+phishing%2C+scams+and+fraud+with+ML;Telling+AI-generated+text+from+human+writing;Next%3A+adversarial+ML+and+LLM+security" alt="AI × Cybersecurity researcher"></a>
+<a href="https://sanaullahniazi.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=900&color=5EC8D8&center=true&vCenter=true&width=680&lines=AI+%C3%97+Cybersecurity+researcher;Detecting+phishing%2C+scams+and+fraud+with+ML;Researching+AI+security+for+multilingual+users;Building+free+security+tools+and+games" alt="AI × Cybersecurity researcher"></a>
 
 [![Website](https://img.shields.io/badge/sanaullahniazi.com-0B1220?style=for-the-badge&logo=googlechrome&logoColor=5EC8D8)](https://sanaullahniazi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaullahkhanniazi)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=V1nFOOkAAAAJ&hl=en)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/onlysanaullah)
 [![CV](https://img.shields.io/badge/Download%20CV-B8862F?style=for-the-badge&logo=readdotcv&logoColor=white)](https://sanaullahniazi.com/assets/cv/Sana_Ullah_Khan_CV.pdf)
 [![Contact me](https://img.shields.io/badge/Contact%20me-D14836?style=for-the-badge)](https://sanaullahniazi.com/#contact)
 
@@ -16,41 +17,96 @@
 
 ## 👋 About me
 
-I am an early-career researcher with an **MS in Artificial Intelligence**. I build machine learning and NLP models that tell real from fake: AI-generated from human text, fraud from normal transactions, scams from genuine messages. Next, I want to make AI systems themselves secure.
+I am an early-career researcher with an **MS in Artificial Intelligence** (CGPA 3.66 / 4.00). I build machine learning and NLP models that tell real from fake: AI-generated from human text, fraud from normal transactions, scams from genuine messages. Next, I want to make AI systems themselves secure.
 
-- 🔬 **Now:** AI-generated text detection · phishing & scam detection · fraud detection
-- 🎯 **Next:** adversarial machine learning · LLM security · AI for the SOC
+- 🔬 **Researching now:** AI security for multilingual users, at the intersection of AI safety and low-resource languages
 - 🛠️ **Building:** a scam & phishing detector for English, Urdu and Roman Urdu messages
+- 🎯 **Next:** adversarial machine learning · LLM security · AI for the SOC
 - 🤝 **Open to:** Master's and PhD positions, research collaborations, and SOC / security and ML roles
-- 📬 **Get in touch:** use the [contact form on my website](https://sanaullahniazi.com/#contact) or email [sanaullahkhan.hse@gmail.com](mailto:sanaullahkhan.hse@gmail.com)
+- 📬 **Get in touch:** the [contact form on my website](https://sanaullahniazi.com/#contact) or [onlysanaullah@gmail.com](mailto:onlysanaullah@gmail.com)
 
-## 🌐 On my website
+## 🚀 Featured project: AquaPulse
 
-| | | |
-|:--|:--|:--|
-| 🛡️ **[Free security tools](https://sanaullahniazi.com/tools/)** | 15 free tools: website health and security checker, phishing link checker, leaked password checker, hidden text and prompt injection finder, and more | Free, no sign-up |
-| 🗺️ **[Security roadmaps](https://sanaullahniazi.com/roadmaps/security/)** | 55 beginner-to-expert career roadmaps in 9 areas, from SOC and cloud security to offensive security, GRC and AI/ML security, plus [frameworks](https://sanaullahniazi.com/roadmaps/security/frameworks/) like NIST CSF, ISO 27001 and MITRE ATT&CK | Links checked every week |
-| 🎓 **[Learning roadmaps](https://sanaullahniazi.com/roadmaps/)** | Free, step-by-step paths into computer science, web, cybersecurity, AI/ML, data and cloud, and [certification roadmaps](https://sanaullahniazi.com/roadmaps/certifications/) | Free resources only |
-| 📰 **[Daily security news](https://sanaullahniazi.com/security-news/)** | Exploited vulnerabilities, ransomware, phishing, breaches and AI security, collected every day with a short brief | Updated by GitHub Actions |
-| ✍️ **[Blog](https://sanaullahniazi.com/blog/)** | Latest: *[What 99.65% accuracy taught me about AI security](https://sanaullahniazi.com/blog/2026/what-99-percent-accuracy-taught-me/)* | |
-| 🌍 **Four languages** | [English](https://sanaullahniazi.com) · [اردو](https://sanaullahniazi.com/ur/) · [Deutsch](https://sanaullahniazi.com/de/) · [中文](https://sanaullahniazi.com/zh/) | |
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://sanaullahniazi.com/projects/aquapulse/"><img src="assets/projects/aquapulse.jpg" alt="AquaPulse: the roof tank, homes, owner and resident apps of a smart-water building"></a>
+    </td>
+    <td width="50%">
+      <b>Smart water management for apartment buildings.</b> Every home's water is metered, billed fairly and watched for leaks, from ESP32 sensors to a web app and an Android app.
+      <br><br>
+      🤖 AI leak detection that can close a valve on its own<br>
+      💧 Live flow, pH and temperature over encrypted MQTT<br>
+      🧾 Slab billing in 11 currencies, with PDF bills<br>
+      🔒 STRIDE threat model, OWASP ASVS checklist, 868 backend tests
+      <br><br>
+      <a href="https://github.com/Sanaullah-Niazi/aquapulse"><b>Code</b></a> ·
+      <a href="https://github.com/Sanaullah-Niazi/aquapulse/releases/tag/v1.0.0"><b>v1.0.0 release</b></a> ·
+      <a href="https://sanaullahniazi.com/projects/aquapulse/"><b>Project page</b></a>
+    </td>
+  </tr>
+</table>
 
-### 🧰 Featured tools
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/MQTT%20over%20TLS-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT over TLS">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black" alt="TimescaleDB">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/License-MIT-5EC8D8?style=flat-square" alt="MIT licence">
+</p>
+
+## 🎮 Security games
+
+Short, free games that teach you how hackers think. Play in a couple of minutes and challenge your friends.
+
+<table>
+  <tr>
+    <td width="33%"><a href="https://sanaullahniazi.com/games/how-hackable-are-you/"><img src="assets/games/how-hackable-are-you.jpg" alt="How hackable are you? 11 quick questions"></a></td>
+    <td width="33%"><a href="https://sanaullahniazi.com/games/scam-or-not/"><img src="assets/games/scam-or-not.jpg" alt="Scam or Not: spot the fake messages"></a></td>
+    <td width="33%"><a href="https://sanaullahniazi.com/games/daily-hack/"><img src="assets/games/daily-hack.jpg" alt="Daily Hack: a new security puzzle every day"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>How hackable are you?</b><br><sub>11 questions, 2 minutes</sub></td>
+    <td align="center"><b>Scam or Not</b><br><sub>10 real-looking messages, 3 minutes</sub></td>
+    <td align="center"><b>Daily Hack</b><br><sub>A new puzzle every day</sub></td>
+  </tr>
+</table>
+
+## 🧰 25 free tools
+
+**16 security and developer tools** plus **9 YouTube creator tools**, all free on my website.
 
 <table>
   <tr>
     <td width="33%"><a href="https://sanaullahniazi.com/tools/website-health-checker/"><img src="assets/tools/website-health-checker.jpg" alt="Website health and security checker"></a></td>
+    <td width="33%"><a href="https://sanaullahniazi.com/tools/prompt-injection-lab/"><img src="assets/tools/prompt-injection-lab.jpg" alt="Prompt injection lab"></a></td>
     <td width="33%"><a href="https://sanaullahniazi.com/tools/phishing-link-checker/"><img src="assets/tools/phishing-link-checker.jpg" alt="Phishing link checker"></a></td>
-    <td width="33%"><a href="https://sanaullahniazi.com/tools/hidden-text-detector/"><img src="assets/tools/hidden-text-detector.jpg" alt="Hidden text and prompt injection finder"></a></td>
   </tr>
   <tr>
+    <td width="33%"><a href="https://sanaullahniazi.com/tools/hidden-text-detector/"><img src="assets/tools/hidden-text-detector.jpg" alt="Hidden text and prompt injection finder"></a></td>
     <td width="33%"><a href="https://sanaullahniazi.com/tools/leaked-password-checker/"><img src="assets/tools/leaked-password-checker.jpg" alt="Leaked password checker"></a></td>
-    <td width="33%"><a href="https://sanaullahniazi.com/tools/lookalike-domain-checker/"><img src="assets/tools/lookalike-domain-checker.jpg" alt="Lookalike domain and punycode checker"></a></td>
-    <td width="33%"><a href="https://sanaullahniazi.com/tools/photo-metadata-remover/"><img src="assets/tools/photo-metadata-remover.jpg" alt="Photo metadata viewer and remover"></a></td>
+    <td width="33%"><a href="https://sanaullahniazi.com/tools/youtube/channel-health-report/"><img src="assets/tools/youtube-channel-health-report.jpg" alt="YouTube channel health report"></a></td>
   </tr>
 </table>
 
-<p align="center"><a href="https://sanaullahniazi.com/tools/"><b>See all 15 tools →</b></a></p>
+- 🛡️ **Security:** website health checker, prompt injection lab (attacks in English, Urdu, Roman Urdu and Pashto), phishing link checker, leaked password checker, lookalike domain checker, photo metadata remover, password tools, hash generator and JWT decoder
+- 💻 **Developer:** JSON formatter, Base64 and URL encoders, Unix timestamp converter and UUID generator
+- 📺 **YouTube:** channel health report, video SEO score, outlier finder, channel comparison, keyword ideas, tag and transcript extractors, and more
+
+<p align="center"><a href="https://sanaullahniazi.com/tools/"><b>See all 25 tools →</b></a></p>
+
+## 🌐 More on my website
+
+| | |
+|:--|:--|
+| 🗺️ **[Security roadmaps](https://sanaullahniazi.com/roadmaps/security/)** | 55 beginner-to-expert career roadmaps in 9 areas, from SOC and cloud security to offensive security, GRC and AI/ML security, plus [frameworks](https://sanaullahniazi.com/roadmaps/security/frameworks/) like NIST CSF, ISO 27001 and MITRE ATT&CK |
+| 🎓 **[Learning roadmaps](https://sanaullahniazi.com/roadmaps/)** | 12 free, step-by-step learning paths, and [certification roadmaps](https://sanaullahniazi.com/roadmaps/certifications/) with real costs |
+| 📰 **[Daily security news](https://sanaullahniazi.com/security-news/)** | Exploited vulnerabilities, ransomware, phishing, breaches and AI security, collected every day with a short brief |
+| ✍️ **[Blog](https://sanaullahniazi.com/blog/)** | Latest: *[What 99.65% accuracy taught me about AI security](https://sanaullahniazi.com/blog/2026/what-99-percent-accuracy-taught-me/)* |
+| 🌍 **Four languages** | [English](https://sanaullahniazi.com) · [اردو](https://sanaullahniazi.com/ur/) · [Deutsch](https://sanaullahniazi.com/de/) · [中文](https://sanaullahniazi.com/zh/) |
 
 ## 🔬 Research
 
@@ -77,14 +133,14 @@ I built and compared LSTM, fine-tuned BERT, TF-IDF + BERT + LightGBM and hybrid 
 
 | Project | What it does | Status |
 |---------|--------------|:------:|
-| **[Scam & phishing detector](https://sanaullahniazi.com/projects/scam-phishing-detector/)** | Flags scam and phishing messages in English, Urdu and Roman Urdu, the languages people in Pakistan actually receive them in | 🟡 In progress |
+| **[AquaPulse](https://sanaullahniazi.com/projects/aquapulse/)** | Smart water management for buildings: ESP32 sensors, a web app and an Android app, with billing and AI leak detection | ✅ v1.0.0 |
+| **[Scam & phishing detector](https://sanaullahniazi.com/projects/scam-phishing-detector/)** | Flags scam and phishing messages in English, Urdu and Roman Urdu | 🟡 In progress |
 | **[AI-generated text detector](https://sanaullahniazi.com/projects/ai-text-detector/)** | My MS thesis: deep learning models that tell AI-generated from human-written text | ✅ Completed |
-| **[IoT water management](https://sanaullahniazi.com/projects/iot-water-management/)** | BS final-year project: Arduino sensors, automatic pump control and an Android app | ✅ Completed |
 
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,linux,ubuntu,git,github,html,css,js,arduino&perline=12" alt="Python, PyTorch, TensorFlow, scikit-learn, Linux, Ubuntu, Git, GitHub, HTML, CSS, JavaScript, Arduino">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,react,flutter,docker,postgres,linux,git,arduino&perline=12" alt="Python, PyTorch, TensorFlow, scikit-learn, FastAPI, React, Flutter, Docker, PostgreSQL, Linux, Git, Arduino">
 </p>
 
 <div align="center">
@@ -92,13 +148,13 @@ I built and compared LSTM, fine-tuned BERT, TF-IDF + BERT + LightGBM and hybrid 
 ![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -106,16 +162,16 @@ I built and compared LSTM, fine-tuned BERT, TF-IDF + BERT + LightGBM and hybrid 
 |------|-------|-----------------|
 | Machine learning & NLP | Research level | MS thesis with LSTM, BERT and hybrid models |
 | Threat & fraud detection | Published research | First-author paper on AI-driven fraud detection for FinTech cybersecurity |
-| AI security | Current direction | Detecting AI-generated content today; adversarial ML and LLM security next |
+| AI security | Current research | Multilingual AI security research and a prompt injection lab in four languages |
 | SOC & blue team | Training & lab level | Cisco Junior Cybersecurity Analyst path; 3-month NAVTTC digital forensics & cyber security course (Grade A) |
 | Penetration testing | Training & lab level | Cisco Ethical Hacker programme; lab work with Kali Linux, Nmap and Wireshark |
 
 ## 📰 News
 
+- **Oct 2026** · Released [AquaPulse v1.0.0](https://github.com/Sanaullah-Niazi/aquapulse/releases/tag/v1.0.0) under the MIT licence.
+- **Oct 2026** · Launched free [security games](https://sanaullahniazi.com/games/) and a [prompt injection lab](https://sanaullahniazi.com/tools/prompt-injection-lab/) on my website.
 - **Oct 2026** · Scored IELTS Academic 6.5 (B2) and started learning German.
-- **Jul 2026** · Completed "IoT for Everyone" (UET Peshawar / HEC, Coursera).
 - **Jun 2026** · First-author paper on AI-driven fraud detection in FinTech [published](https://doi.org/10.63544/jbii.v5i6.116).
-- **Mar 2026** · First-author paper on AI and workplace safety in oil and gas [published](https://doi.org/10.65181/poms.06.01.0100).
 - **Jan 2026** · Awarded the MS in Artificial Intelligence by The Islamia University of Bahawalpur (CGPA 3.66 / 4.00).
 
 <details>
@@ -167,5 +223,8 @@ I built and compared LSTM, fine-tuned BERT, TF-IDF + BERT + LightGBM and hybrid 
 </p>
 
 <div align="center">
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/sanaullah_niazi)
+
 <sub>Pakistan · <a href="https://sanaullahniazi.com">sanaullahniazi.com</a> · English · اردو · Deutsch · 中文</sub>
 </div>
